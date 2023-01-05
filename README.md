@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m @gamersushil**
-- 👀 I’m interested in Application Security 
-- 🌱 I’m currently learning Mobile Security Testing
+- 👀 I’m interested in Application Security, Mobile Security Testing
+- 🌱 I’m currently learning Thick CLient Penetration Testing
 - 💞️ I’m looking to collaborate on Security stuff
 - 📫 How to reach me: Twitter: @**gamersushil**
 
