@@ -1,12 +1,9 @@
 - 👋 **Hi, I’m @gamersushil**
-- 👀 I’m interested in Application Security, Mobile Security Testing
-- 🌱 I’m currently learning Thick CLient Penetration Testing
+- 👀 I’m working as a Security Engineer with significant expertise in the **Web application, API, Android/IOS applications, Thick Client & Network** Penetration Testing
 - 💞️ I’m looking to collaborate on Security stuff
 - 📫 How to reach me: Twitter: @**gamersushil**
 
-Skills: Penetration Testing - Web Application | API | Mobile (iOS & Android)
-
-
+**Skills**: Penetration Testing - Web Application | API | Mobile (iOS & Android) | Thick Client | Internal & External Network
 
 <!---
 gamersushil/gamersushil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
